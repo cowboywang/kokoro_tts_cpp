@@ -7,5 +7,5 @@ this project is based on:
 	 2. cppjieba：https://github.com/yanyiwu/cppjieba
 	 3. kokoro_tts：https://github.com/nazdridoy/kokoro-tts
 
-project info
+project info:
    c++ kokoto tts sdk and demo
