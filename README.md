@@ -12,5 +12,13 @@ this project is based on:<br>
 project info:<br>
    c++ kokoto tts sdk and demo
 <br>
+<br>
 model file and dictionary files :<br>
 link: https://pan.baidu.com/s/1hyLBECj14tT_sebtKkRJ_w code: umgu
+<br>
+<br>
+steps to run Demo<br>
+1. down load model files and dictionary files above<br>
+2. put them under the exe folder<br>
+3. run exe file, click init button<br>
+4. click TTS button
