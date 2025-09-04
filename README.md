@@ -11,3 +11,8 @@ this project is based on:<br>
 <br>
 project info:<br>
    c++ kokoto tts sdk and demo
+
+<br>
+<br>
+model file and dictionary files :<br>
+link: https://pan.baidu.com/s/1hyLBECj14tT_sebtKkRJ_w code: umgu
